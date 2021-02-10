@@ -1,0 +1,46 @@
+C:\Users\Gelezyka\source\repos\Hhru\bin\Debug\Hhru.exe.config
+C:\Users\Gelezyka\source\repos\Hhru\bin\Debug\Hhru.exe
+C:\Users\Gelezyka\source\repos\Hhru\bin\Debug\Hhru.pdb
+C:\Users\Gelezyka\source\repos\Hhru\obj\Debug\Hhru.csprojAssemblyReference.cache
+C:\Users\Gelezyka\source\repos\Hhru\obj\Debug\Hhru.csproj.CoreCompileInputs.cache
+C:\Users\Gelezyka\source\repos\Hhru\obj\Debug\Hhru.exe
+C:\Users\Gelezyka\source\repos\Hhru\obj\Debug\Hhru.pdb
+C:\Users\Gelezyka\source\repos\Hhru\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gelezyka\source\repos\Hhru\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gelezyka\source\repos\Hhru\obj\Debug\Hhru.csproj.CopyComplete
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Hhru.exe.config
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Hhru.exe
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Hhru.pdb
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\obj\Debug\Hhru.csprojAssemblyReference.cache
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\obj\Debug\Hhru.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\obj\Debug\Hhru.csproj.CopyComplete
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\obj\Debug\Hhru.exe
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\obj\Debug\Hhru.pdb
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Telegram.Bot.dll
+C:\Program Files (x86)\Windows Service\Hhru\Hhru\bin\Debug\Telegram.Bot.xml
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Hhru.exe.config
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Hhru.exe
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Hhru.pdb
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Telegram.Bot.dll
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\bin\Debug\Telegram.Bot.xml
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\obj\Debug\Hhru.csprojAssemblyReference.cache
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\obj\Debug\Hhru.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\obj\Debug\Hhru.csproj.CopyComplete
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\obj\Debug\Hhru.exe
+C:\Program Files (x86)\Windows Service\Windows Service\Hhru\Hhru\obj\Debug\Hhru.pdb
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Hhru.exe.config
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Hhru.exe
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Hhru.pdb
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Telegram.Bot.dll
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\bin\Debug\Telegram.Bot.xml
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\obj\Debug\Hhru.csprojAssemblyReference.cache
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\obj\Debug\Hhru.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\obj\Debug\Hhru.csproj.CopyComplete
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\obj\Debug\Hhru.exe
+C:\Program Files (x86)\Windows Service\Windows Service\HhruV2\obj\Debug\Hhru.pdb
